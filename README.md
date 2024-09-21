@@ -1,6 +1,7 @@
 # 🖌️✨ Dibujo y Reconocimiento de Dígitos con Redes Neuronales
 
 Bienvenido a mi proyecto de **reconocimiento de dígitos escritos a mano** usando una red neuronal entrenada con el famoso dataset **MNIST**. En esta aplicación, los usuarios pueden dibujar números en un lienzo, y el modelo predice el dígito. 🎨🤖
+![Captura de pantalla](numero adivinado.png)
 
 ## 🎯 Objetivos del Proyecto
 
